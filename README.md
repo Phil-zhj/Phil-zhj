@@ -1,16 +1,15 @@
-## Hi there 👋
+# 你好，我是 Phil
 
-<!--
-**Phil-zhj/Phil-zhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+苏州 / 商业地产运营方向，业余折腾 AI 工具链与自动化。
 
-Here are some ideas to get you started:
+## 在忙什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WorkBuddy 技能库与运维脚本的审计自动化
+- 本地 OCR + 视觉模型的工作流（离线优先）
+- 数据台账与报表工具链
+
+## 工具偏好
+
+Python · PowerShell · SQLite · 文档自动化
+
+> 这里主要用于个人工具与脚本的版本管理，不代表任何机构立场。
